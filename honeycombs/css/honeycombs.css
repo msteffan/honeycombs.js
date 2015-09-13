@@ -1,8 +1,13 @@
 body {
 	background-color: #434846;
+	font-family: 'Open Sans', Arial, sans-serif;
 }
-form {
 
+h1 {
+	color: #00AFAE;
+	font-weight: bold;
+	text-align: center;
+	line-height: 4em;
 }
 #searchInput {
 	display: block;
