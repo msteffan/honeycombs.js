@@ -1,3 +1,24 @@
+body {
+	background-color: #434846;
+}
+form {
+
+}
+#searchInput {
+	display: block;
+	margin:0 auto 50px;
+	width: 40%;
+	height: 40px;
+	border-radius: 10px;
+	background-color:#AAAAAA;
+	border: 1px solid #AAAAAA;
+	color: white;
+	padding: 10px;
+	font-size: 1.25rem;
+	font-family: 'Open Sans', Arial, sans-serif;
+}
+
+
 .honeycombs{
 	position: relative;
 	overflow: hidden;
@@ -25,7 +46,7 @@
 }
 
 .comb .icon-hex-lg {
-	color: #26A196;
+	color: #FF9000;
 }
 
 .comb.placeholder{
@@ -82,7 +103,7 @@
 	-moz-opacity: 0;
 	-khtml-opacity: 0;
 	opacity: 0;
-	
+
 }
 
 
@@ -103,7 +124,7 @@
 }
 
 .comb:hover > span {
-	color: #FF6493 !important;
+	color: #00AFAE !important;
 
 }
 
